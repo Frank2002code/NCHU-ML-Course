@@ -7,3 +7,5 @@ The repository for machine learning course HW and project
 ## Ch2. Regression
 
 ## Ch3. SVM
+
+## Ch4. Decision Tree
