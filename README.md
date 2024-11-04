@@ -11,3 +11,5 @@ The repository for machine learning course HW and project
 ## Ch4. Decision Tree
 
 ## Ch5. Ensemble Learning & Random Forest
+
+## Ch6. Dimensionality Reduction
