@@ -13,3 +13,5 @@ The repository for machine learning course HW and project
 ## Ch5. Ensemble Learning & Random Forest
 
 ## Ch6. Dimensionality Reduction
+
+## Ch7. Unsupervised Learning
