@@ -15,3 +15,5 @@ The repository for machine learning course HW and project
 ## Ch6. Dimensionality Reduction
 
 ## Ch7. Unsupervised Learning
+
+## Ch8. CNN
